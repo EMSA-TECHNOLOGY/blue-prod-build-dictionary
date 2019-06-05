@@ -1,6 +1,6 @@
 {
-  "name": "sails-build-dictionary",
-  "version": "0.10.2",
+  "name": "blue-prod-build-dictionary",
+  "version": "1.0.0",
   "description": "Recursively build a dictionary of modules using include-all.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/balderdashy/sails-build-dictionary"
+    "url": "https://github.com/EMSA-TECHNOLOGY/blue-prod-build-dictionary"
   },
-  "author": "Mike McNeil",
+  "author": "Vu Do",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/balderdashy/sails-build-dictionary/issues"
+    "url": "https://github.com/EMSA-TECHNOLOGY/blue-prod-build-dictionary/issues"
   },
   "dependencies": {
     "include-all": "0.2.0",
