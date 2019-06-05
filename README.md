@@ -1,8 +1,6 @@
-# sails-build-dictionary
+<h1>
+  <a href="https://github.com/EMSA-TECHNOLOGY/blue-prod-build-dictionary">blue-prod-build-dictionary</a>
+</h1>
 
-
-> **Deprecated**
->
-> For simplicity, this module will be removed as a dependency of Sails in an upcoming release.
-> (This is in favor of using [`include-all`](http://github.com/mikermcneil/include-all) directly.)
+Recursively build a dictionary of modules using include-all.
 
